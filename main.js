@@ -32,7 +32,7 @@ document.querySelector("#cards").innerHTML =
             )+
             createCard('23/11' , 'quarta',
             createGame("germany", "1 x 2", "japan")+
-            createGame("spain",   "13:00", "costa rica")+
+            createGame("spain",   "7 x 0", "costa rica")+
             createGame("belgium", "16:00", "canada")
             )+
             createCard('24/11' , 'quinta',
