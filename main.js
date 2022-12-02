@@ -44,30 +44,30 @@ document.querySelector("#cards").innerHTML =
             createGame("england",   "0 x 0", "united states")
             )+
             createCard('26/11' , 'sabado',
-            createGame("france", "13:00", "denmark")+
-            createGame("argentina",   "16:00", "mexico")
+            createGame("france", "2 x 1", "denmark")+
+            createGame("argentina",   "2 x 0", "mexico")
             )+
             createCard('27/11' , 'domingo',
-            createGame("belgium", "10:00", "morocco")+
-            createGame("croatia", "13:00", "canada")+
-            createGame("spain",   "16:00", "germany")
+            createGame("belgium", "0 x 2", "morocco")+
+            createGame("croatia", "4 x 1", "canada")+
+            createGame("spain",   "1 x 1", "germany")
             )+
             createCard('28/11' , 'segunda',
-            createGame("brazil", "13:00", "switzerland") +
-            createGame("portugal", "16:00", "uruguay")
+            createGame("brazil", "2 x 0", "switzerland") +
+            createGame("portugal", "2 x 0", "uruguay")
             )+
             createCard('29/11' , 'terça',
-            createGame("netherlands", "12:00", "qatar") +
-            createGame("wales", "16:00", "england")
+            createGame("netherlands", "2 x 0", "qatar") +
+            createGame("wales", "0 x 3", "england")
             )+
             createCard('30/11' , 'quarta',
-            createGame("tunisia", "12:00", "france") +
-            createGame("poland", "16:00", "argentina")
+            createGame("tunisia", "1 x 0", "france") +
+            createGame("poland", "0  x  2", "argentina")
             )+
             createCard('01/12' , 'quinta',
-            createGame("croatia", "12:00", "belgium") +
-            createGame("costa rica", "16:00", "germany") +
-            createGame("japan", "16:00", "spain") 
+            createGame("croatia", "0 x 0", "belgium") +
+            createGame("costa rica", "2 x 4", "germany") +
+            createGame("japan", "2 x 1", "spain") 
             ) +
             createCard('02/12' , 'sexta',
             createGame("south korea", "12:00", "portugal") +
