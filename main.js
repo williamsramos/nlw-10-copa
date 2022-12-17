@@ -99,14 +99,14 @@ document.querySelector("#cards").innerHTML =
   ) +
 
   createCard('13/12', 'terça',
-    createGame("argentina", "16:00", "croatia")
+    createGame("argentina", "3 x 0", "croatia")
   ) +
   createCard('14/12', 'quarta',
-    createGame("france", "16:00", "morocco")
+    createGame("france", "2 x 0", "morocco")
   ) +
   createCard('17/12', 'sabado',
-    createGame("argentina/croatia", "12:00", "france/morocco")
+    createGame("croatia", "12:00", "morocco")
   ) +
   createCard('18/12', 'domingo',
-    createGame("argentina/croatia", "12:00", "france/morocco")
+    createGame("argentina", "12:00", "france")
   ) 
