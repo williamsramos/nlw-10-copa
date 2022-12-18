@@ -108,5 +108,5 @@ document.querySelector("#cards").innerHTML =
     createGame("croatia", "2 X 1", "morocco")
   ) +
   createCard('18/12', 'domingo',
-    createGame("argentina", "3 (4) X (2)  3", "france - ARGENTINA TRICAMPEÃ")
+    createGame("argentina", "3 (4) X (2)  3", "france" "ARGENTINA TRICAMPEÃ")
   ) 
